@@ -5,6 +5,7 @@
 using namespace std;
 
 //comment 1
+//comment 2
 
 TEST(Point, test1)
 {
