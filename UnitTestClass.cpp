@@ -4,6 +4,8 @@
 
 using namespace std;
 
+//comment 1
+
 TEST(Point, test1)
 {
 	Point a(1,1);
