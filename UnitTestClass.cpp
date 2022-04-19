@@ -6,6 +6,7 @@ using namespace std;
 
 //comment 1
 //comment 2
+//comment 3
 
 TEST(Point, test1)
 {
